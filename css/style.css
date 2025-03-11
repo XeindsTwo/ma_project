@@ -8,6 +8,9 @@
 @import 'home/_home.css';
 
 /* делаем изменения в папке home */
+html {
+    display: none;
+}
 
 .stepanito__items {
     height: 100vh;
