@@ -7,6 +7,8 @@
 
 @import 'home/_home.css';
 
+/* делаем изменения в папке home */
+
 .stepanito__items {
     height: 100vh;
     background-image: url('https://avatars.mds.yandex.net/i?id=139d71fabc75461a22faa1c914735f60_l-5014030-images-thumbs&n=13');
